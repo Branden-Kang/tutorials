@@ -3,7 +3,7 @@
 
 ## Outline
 
-- [Objective](#objective)
+- [Objectiveo](#objectivo)
 - [Prerequisites](#prerequisites)
 - [Task 1: Product Tour](#task-1-product-tour)
 - [Task 2: Automatic Machine Learning Concepts](#task-2-automatic-machine-learning-concepts)
