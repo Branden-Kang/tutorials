@@ -461,7 +461,6 @@ Driverless AI mostra os gráficos de aspectos "relevantes" dos dados. Os gráfic
 - Correlated Scatterplots
 - Gráficos de dispersão correlacionados
 - Spikey Histograms
-- 
 - Skewed Histograms
 - Varying Boxplots
 - Heteroscedastic Boxplots
